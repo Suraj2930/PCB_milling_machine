@@ -1,6 +1,6 @@
 # PCB_milling_machine 
 
-<img src="./Cover_Image.jpg" width="700">
+<img src="./Cover_Image.jpg" width="550">
 
 [Visit Project Link](https://www.hackster.io/515115/open-source-pcb-mill-build-electronics-for-everyone-b0b293)
 
