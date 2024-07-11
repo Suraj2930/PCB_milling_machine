@@ -1,5 +1,6 @@
 # PCB_milling_machine 
 
+<img src="./Cover_Image.jpg" width="700">
 [Visit Project Link](https://www.hackster.io/515115/open-source-pcb-mill-build-electronics-for-everyone-b0b293)
 
 My passion for electronics has always centered around the intricate beauty of custom circuit boards. Determined to bridge the gap 
