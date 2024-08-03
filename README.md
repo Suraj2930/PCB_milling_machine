@@ -1,5 +1,7 @@
 # PCB_milling_machine 
 
+<div align = "center">
+
 <img src="./Cover_Image.jpg" width="550">
 
 [Visit Project Link](https://www.hackster.io/515115/open-source-pcb-mill-build-electronics-for-everyone-b0b293)
@@ -49,3 +51,4 @@ the dance between design and execution. Sharing my experience on Hackster.io ign
 - FlatCam
 - Universal G-Code Sender
 
+<div>
