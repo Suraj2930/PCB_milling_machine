@@ -1,4 +1,4 @@
-# PCB_milling_machine 
+# PCB milling CNC machine 
 
 <div align = "justify">
 
