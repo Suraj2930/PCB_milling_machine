@@ -1,6 +1,6 @@
 # PCB_milling_machine 
 
-<div align = "center">
+<div align = "justify">
 
 <img src="./Cover_Image.jpg" width="550">
 
